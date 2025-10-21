@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @kaushal_Kishor_Rauniyar<br>👀 I’m interested in cricket,Web_development,GUI,<br>🌱 I’m currently learning DSA,Web_development,App_development<br>💞️ I’m looking to collaborate with Different MNCS<br>📫 You Can reach me through my different social medias handles whose links are given on my profile<br>⚡ Fun fact: Always smile😂😍
+👋 Hi, I’m @kaushal_Kishor_Rauniyar<br>👀 I’m interested in Software Engineering, Web_development, App Development, GUI,<br>🌱 I’m currently learning DSA,Web_development,App_development<br>💞️ I’m looking to collaborate with Different MNCS<br>📫 You Can reach me through my different social medias handles whose links are given on my profile<br>⚡ Fun fact: Always smile and be happy😂😍
 
 
 ## 🌐 Socials:
